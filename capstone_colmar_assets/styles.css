@@ -203,3 +203,58 @@ li {
 #marketing {
     margin: 0px 0px 32px 32px;
 }
+
+#foot-container h1{
+    padding: 32px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+#container video{
+    max-width: 95%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+}
+#banner-text2 {
+    max-width: 95%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-bottom: 8px;
+}
+#banner-text2 p {
+    max-width: 95%;
+    padding-bottom: 32px;
+}
+
+#container4 {
+    display: inline;
+}
+
+.fisma img {
+    padding: 16px;
+    max-width: 35%;
+    height: auto;
+}
+.nowandthen img {
+    padding: 16px;
+    max-width: 35%;
+    height: auto;
+}
+
+#container2 .fisma {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+#container2 .nowandthen {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+#container2 {
+    padding-bottom: 32px;
+}
