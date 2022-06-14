@@ -3,13 +3,29 @@
   }
   
   body {
-    font-family: 'Avenir Next LT Pro', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     max-width: 1280px;
     margin: auto;
   }
+
+  .header-logo img{
+    height: 32px;
+    padding-left: 24px;
+    display: flex;
+  }
+
+  .header-logo ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding-left: 24px;
+  }
   
+  li {
+    margin: 0 10px;
+  }
+
   #banner-container {
-  
     display: flex;
     align-items: center;
     padding: 32px 24px;
@@ -43,4 +59,77 @@
     border: unset;
     padding: 8px 0px;
     margin-top: 24px;
+  }
+  #banner-container2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 32px 24px;
+    background-color: white;
+  }
+  
+  #container img {
+    width: 95%;
+  }
+  
+  #container {
+    max-width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+  }
+  
+  #container h2 {
+    margin-top: 24px;
+    color: #4a4a4a;
+    
+  }
+  
+  #container p {
+    color: #4a4a4a;
+    margin-top: 24px;
+  }
+
+  #main-container {
+    display: flex;
+    margin-top: 32px;
+    
+  }
+
+  .orientation img {
+    padding: 16px;
+    max-width: 35%;
+    height: auto;
+  }
+  .campus img {
+    padding: 16px;
+    max-width: 35%;
+    height: auto;
+  }
+  .guest img {
+    padding: 16px;
+    max-width: 35%;
+    height: auto;
+  }
+  .orientation .text {
+    display: block;
+  }
+  #container2 .orientation {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  }
+  #container2 .campus {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  }
+  #container2 .guest {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    background-color: #d7d7d7;
+  }
+  #container2 p {
+    padding: 8px;
   }
