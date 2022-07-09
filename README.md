@@ -1,6 +1,9 @@
 <h1> Capstone Project Introduction: Colmar Academy </h1>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)<br>
+<img src="https://earvcode.github.io/Colmar_Academy/resources/images/banner.jpg" width="300px" height="300px"/>
+
+
 <p>You are tasked with designing and creating the landing page for a new school. You will help them by making informed design decisions about 
 color and typography using the skills you learned last week. You will then implement your design.</p>
 <p>For this project we will provide you with wireframes. A wireframe is a document which contains the positioning of the elements on a page 
